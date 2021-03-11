@@ -4,8 +4,3 @@ Here we are usinMg HSV color space to detect the color from the frame, you can d
 
 ### Requirement are Opencv-python
 just type into your Terminal: ***'pip install opencv-python'***
-
-
-
-
-
